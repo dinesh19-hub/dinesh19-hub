@@ -112,6 +112,7 @@
 - Google AI-ML Virtual Internship
 - Microsoft AICTE Internship
 - ServiceNow Certified System Administrator
+- ServiceNow Certified Application Developer
 
 ---
 
