@@ -120,7 +120,7 @@
 
 📧 Email: dk2247@srmist.edu.in  
 💼 LinkedIn: [YOUR_LINKEDIN_LINK ](https://www.linkedin.com/in/dinesh-konda-788454290/) 
-🌐 Portfolio: YOUR_PORTFOLIO_LINK  
+🌐 Portfolio: [YOUR_PORTFOLIO_LINK](https://dinesh19-portfolio.vercel.app/)  
 🐙 GitHub: [YOUR_GITHUB_LINK  ](https://github.com/dinesh19-hub/)
 
 ---
