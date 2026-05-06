@@ -49,6 +49,18 @@
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
 ![SHAP](https://img.shields.io/badge/SHAP-FF4B4B?style=for-the-badge)
 
+## ⚙️ ServiceNow
+![ServiceNow](https://img.shields.io/badge/ServiceNow-81B441?style=for-the-badge&logo=servicenow&logoColor=white)
+
+### ServiceNow Skills
+- Flow Designer
+- Scripted REST APIs
+- UI Builder
+- Business Rules
+- Client Scripts
+- Glide APIs
+- Workflow Automation
+- Incident & Task Management
 ---
 
 # 📌 Featured Projects
